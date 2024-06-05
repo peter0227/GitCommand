@@ -8,5 +8,5 @@ git commit -m "first commit"
 git remote add origin https://xxxx.git
 git push -u origin master
 
-从git上第一次拉取代码(如果是private项目需要输入密码
+从git上第一次拉取代码(如果是private项目需要输入密码）
 git clone https://xxxx.git
