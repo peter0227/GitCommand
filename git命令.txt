@@ -1,0 +1,12 @@
+本地代码上传git
+先在git创建好仓库
+仓库地址https://xxxx.git
+然后在项目文件下执行命令
+git init 
+git add .
+git commit -m "first commit"
+git remote add origin https://xxxx.git
+git push -u origin master
+
+从git上第一次拉取代码(如果是private项目需要输入密码
+git clone https://xxxx.git
