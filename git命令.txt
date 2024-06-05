@@ -10,3 +10,7 @@ git push -u origin master
 
 从git上第一次拉取代码(如果是private项目需要输入密码）
 git clone https://xxxx.git
+
+
+拉代码
+git checkout main
