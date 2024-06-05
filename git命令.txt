@@ -13,4 +13,9 @@ git clone https://xxxx.git
 
 
 拉代码
-git checkout main
+git pull
+
+提交代码
+git add . 
+git commit -m "xxx"
+git push
